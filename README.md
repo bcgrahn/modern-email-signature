@@ -6,7 +6,7 @@ Minimalistic email signature with clickable links.
 3. Open email settings.
 4. Navigate to add email signature and paste there. 
 
-Enjoy :)
+Enjoy ;)
 
 Email signature link:
 https://bcgrahn.github.io/modern-email-signature/
